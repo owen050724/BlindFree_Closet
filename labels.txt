@@ -1,0 +1,8 @@
+0 T-shirt
+1 dress_shirts
+2 sweater
+3 turtle_neck
+4 hood
+5 jeans
+6 sweatpants
+7 slacks
